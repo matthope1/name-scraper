@@ -1,10 +1,5 @@
 # name-scraper
 
-
-Project Name: FirstNames Scraper
-Purpose
-The "FirstNames Scraper" is a Python script that extracts names from firstnam.es and saves them to a file. It can be useful for generating datasets, creating fictional character names, or any task requiring a list of first names.
-
 Installation
 Ensure you have Python 3 installed. Install dependencies using:
 
